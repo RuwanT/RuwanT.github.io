@@ -1,10 +1,9 @@
 ---
 title: "Postgraduate Teaching"
 collection: teaching
-type: ""
+type: "RMIT University"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Computer Science & Software Engineering - RMIT"
-date: 2020
+venue: "Computer Science & Software Engineering"
 location: "Melbourne, Australia"
 ---
 
