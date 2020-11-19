@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Computer Science & Software Engineering"
 date: 2014-01-01
-location: "City, Country"
+location: "Melbourne, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+1. Machine Learning
+2. Advanced Programming Techniques
