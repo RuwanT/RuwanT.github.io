@@ -3,7 +3,7 @@ title: "Postgraduate Teaching "
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "RMIT University"
+venue: "Computer Science & Software Engineering"
 date: 2015-01-01
 location: "Melbourne, Australia"
 ---
