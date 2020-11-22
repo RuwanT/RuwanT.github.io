@@ -54,7 +54,8 @@ author_profile: true
 
 ## Retinal Image Analysis
 [1] Bogunović, H. et al. "RETOUCH: The retinal OCT fluid detection and segmentation benchmark and challenge". *IEEE transactions on medical imaging*, 2019.  
-[[Link]](https://ieeexplore.ieee.org/abstract/document/8653407)
+[[PDF]](https://www.crcv.ucf.edu/wp-content/uploads/2019/05/Publications_RETOUCH.pdf) [[Link]](https://ieeexplore.ieee.org/abstract/document/8653407)
+
 
 [2] Tennakoon, R., Gostar, A.K., Hoseinnezhad, R. and Bab-Hadiashar, A. "Retinal fluid segmentation in oct images using adversarial loss based convolutional neural networks". In 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018).  
 [[Link]](https://ieeexplore.ieee.org/abstract/document/8363842) [[Code]](https://github.com/RuwanT/retouch)
