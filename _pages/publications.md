@@ -18,7 +18,7 @@ author_profile: true
 [4] Sadri, A., Tennakoon, R., Hosseinnezhad, R. and Bab-Hadiashar, A. "Robust visual data segmentation: Sampling from distribution of model parameters". *Computer Vision and Image Understanding*, 2018.  
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1077314218301140)
 
-[5] Tennakoon, R.B., Bab-Hadiashar, A., Suter, D. and Cao, Z. "Robust data modelling using thin plate splines". In 2013 International Conference on Digital Image Computing: Techniques and Applications (DICTA). 
+[5] Tennakoon, R.B., Bab-Hadiashar, A., Suter, D. and Cao, Z. "Robust data modelling using thin plate splines". In 2013 International Conference on Digital Image Computing: Techniques and Applications (DICTA).   
 [[Link]](https://ieeexplore.ieee.org/abstract/document/6691522) [[Code]](https://github.com/RuwanT/robust-tps)
 
 
