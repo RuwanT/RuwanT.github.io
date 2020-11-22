@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Robust fitting in Computer vision
+## Robust fitting in Computer vision/Motion segmentation
 [1] Tennakoon, R.B., Bab-Hadiashar, A., Cao, Z., Hoseinnezhad, R. and Suter, D. "Robust model fitting using higher than minimal subset sampling". *IEEE transactions on pattern analysis and machine intelligence*, 2016.  
 [[PDF]](http://ruwant.github.io/files/TPAMI2448103.pdf)
 
@@ -23,7 +23,6 @@ author_profile: true
 
 
 
-
 ## Weakly Supervised Learning and Multi Instance Learning
 [1] Tennakoon, R., Bortsova, G., Ørting, S., Gostar, A.K., Wille, M.M., Saghir, Z., Hoseinnezhad, R., de Bruijne, M. and Bab-Hadiashar, A. "Classification of Volumetric Images Using Multi-Instance Learning and Extreme Value Theorem". *IEEE Transactions on Medical Imaging*, 2019.  
 [[PDF]](http://ruwant.github.io/files/TMI2936244.pdf) [[Code]](https://github.com/RuwanT/EVT-MIL)
@@ -31,8 +30,21 @@ author_profile: true
 [2] Tennakoon, R., Gostar, A.K., Hoseinnezhad, R., de-Bruijne, M. and Bab-Hadiashar, A. "Deep multi-instance volumetric image classification with extreme value distributions". In Asian Conference on Computer Vision, 2018.  
 [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-20893-6_37)
 
+## 3D Point-Cloud analysis 
+[1] Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A. "PL-Net3d: Robust 3D Object Class Recognition Using Geometric Models". *IEEE Access*, 2019.  
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8895750) [[Code]](https://github.com/AymanMukh/Pl-Net3D)  
 
-## Medical Iamge Registration
+[2] Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A. "Comparative analysis of 3D shape recognition in the presence of data inaccuracies". In 2019 IEEE International Conference on Image Processing (ICIP). 2019.  
+[[Link]](https://ieeexplore.ieee.org/abstract/document/8803345)
+
+[3] Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A., 2020. Robust Object Classification Approach using Spherical Harmonics. arXiv preprint arXiv:2009.01369.  
+[[PDF]](https://arxiv.org/pdf/2009.01369.pdf)
+
+[4] Gostar, A.K., Fu, C., Chuah, W., Hossain, M.I., Tennakoon, R., Bab-Hadiashar, A. and Hoseinnezhad, R., 2019. State transition for statistical SLAM using planar features in 3D point clouds. Sensors, 19(7), p.1614.  
+[[PDF]](https://www.mdpi.com/1424-8220/19/7/1614)
+
+
+## Medical Image Registration
 [1] Tennakoon, R.B., Bab-Hadiashar, A., Cao, Z. and de Bruijne, M. "Nonrigid registration of volumetric images using ranked order statistics". *IEEE transactions on medical imaging*, 2013.  
 [[PDF]](http://ruwant.github.io/files/TMI2286192.pdf)
 
@@ -40,7 +52,7 @@ author_profile: true
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6459590)
 
 
-## Retianl Image Analysis
+## Retinal Image Analysis
 [1] Bogunović, H. et al. "RETOUCH: The retinal OCT fluid detection and segmentation benchmark and challenge". *IEEE transactions on medical imaging*, 2019.  
 [[Link]](https://ieeexplore.ieee.org/abstract/document/8653407)
 
