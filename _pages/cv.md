@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="RuwanT.github.io/blob/master/files/RuwanTennakoonCV.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/RuwanT/RuwanT.github.io/blob/master/files/RuwanTennakoonCV.pdf" target="_blank">PDF.</a>
   
   
