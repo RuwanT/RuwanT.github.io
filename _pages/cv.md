@@ -9,24 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Electrical & Electronic Engineering, University of Peradeniya, 2007
-* Ph.D in Computer Vision, Swinburne University of Technology, 2015
-
-Work experience
-======
-* 2019-: Lecturer - Computer Science & Software Engineering
-  * RMIT university, Melbourne
-  * School of Science, Engineering and Health
-
-* 2017-2019: Research Fellow
-  * RMIT university, Melbourne
-
-* 2016-2017: Research Scientist 
-  * IBM Research Australia
-  
-* 2015: Research Fellow
-  * RMIT University, Melbourne
+<object data="https://github.com/RuwanT/RuwanT.github.io/blob/master/files/RuwanTennakoonCV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/RuwanT/RuwanT.github.io/blob/master/files/RuwanTennakoonCV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/RuwanT/RuwanT.github.io/blob/master/files/RuwanTennakoonCV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
   
   
