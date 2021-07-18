@@ -18,8 +18,7 @@ author_profile: true
 [4] Sadri, A., Tennakoon, R., Hosseinnezhad, R. and Bab-Hadiashar, A. "Robust visual data segmentation: Sampling from distribution of model parameters". *Computer Vision and Image Understanding*, 2018.  
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1077314218301140)
 
-[5] Tennakoon, R.B., Bab-Hadiashar, A., Suter, D. and Cao, Z. "Robust data modelling using thin plate splines". In 2013 International Conference on Digital Image Computing: Techniques and Applications (DICTA).   
-[[Link]](https://ieeexplore.ieee.org/abstract/document/6691522) [[Code]](https://github.com/RuwanT/robust-tps)
+
 
 
 
@@ -45,11 +44,7 @@ author_profile: true
 
 
 ## Medical Image Registration
-[1] Tennakoon, R.B., Bab-Hadiashar, A., Cao, Z. and de Bruijne, M. "Nonrigid registration of volumetric images using ranked order statistics". *IEEE transactions on medical imaging*, 2013.  
-[[PDF]](http://ruwant.github.io/files/TMI2286192.pdf)
 
-[2] Bab-Hadiashar, A., Tennakoon, R.B. and deBruijne, M. "Quantification of smoothing requirement for 3D optic flow calculation of volumetric images". *IEEE Transactions on Image Processing*, 2013.  
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6459590)
 
 
 ## Retinal Image Analysis
@@ -71,3 +66,15 @@ author_profile: true
 
 
 
+## 2013
+- Tennakoon, R.B., Bab-Hadiashar, A., Cao, Z. and de Bruijne, M. "Nonrigid registration of volumetric images using ranked order statistics". *IEEE transactions on medical imaging*, 2013.  
+[[PDF]](http://ruwant.github.io/files/TMI2286192.pdf)
+
+- Bab-Hadiashar, A., Tennakoon, R.B. and deBruijne, M. "Quantification of smoothing requirement for 3D optic flow calculation of volumetric images". *IEEE Transactions on Image Processing*, 2013.  
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6459590)
+
+- Tennakoon, R.B., Bab-Hadiashar, A., de Bruijne, M. and Cao, Z. "Efficient nonrigid registration using ranked order statistics". In 10th International Symposium on Biomedical Imaging (ISBI), 2013.
+[[Link]](https://ieeexplore.ieee.org/document/6556520)
+
+- Tennakoon, R.B., Bab-Hadiashar, A., Suter, D. and Cao, Z. "Robust data modelling using thin plate splines". In 2013 International Conference on Digital Image Computing: Techniques and Applications (DICTA).   
+[[Link]](https://ieeexplore.ieee.org/abstract/document/6691522) [[Code]](https://github.com/RuwanT/robust-tps)
