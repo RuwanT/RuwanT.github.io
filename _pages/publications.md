@@ -5,6 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Bab-Hadiashar, A. and Suter, D., "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+[[Link]](https://openaccess.thecvf.com/content/CVPR2022/html/Chuah_ITSA_An_Information-Theoretic_Approach_to_Automatic_Shortcut_Avoidance_and_Domain_CVPR_2022_paper.html)[[Code]](https://github.com/waychin-weiqin/ITSA)
+[[Video]](https://youtu.be/17SLCfmZLbs)
+
+- Zhang, E., Suter, D., Tennakoon, R., Chin, T.J., Bab-Hadiashar, A., Truong, G. and Gilani, S.Z., "Maximum Consensus by Weighted Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+[[Link]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Maximum_Consensus_by_Weighted_Influences_of_Monotone_Boolean_Functions_CVPR_2022_paper.html)
+
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A.,. Semantic Guided Long Range Stereo Depth Estimation for Safer Autonomous Vehicle Applications. IEEE Transactions on Intelligent Transportation Systems, 2022.
+[[PDF]](http://ruwant.github.io/files/Wei_TITS_2022_.pdf)
+
+- Acharya, D., Tennakoon, R., Muthu, S., Khoshelham, K., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Single-image localisation using 3D models: Combining hierarchical edge maps and semantic segmentation for domain adaptation. Automation in Construction, 2022.
+[[Link]](https://www.sciencedirect.com/science/article/pii/S0926580522000255)
+
+- Muthu, S., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Unsupervised video object segmentation: an affinity and edge learning approach. International Journal of Machine Learning and Cybernetics, 2022.
+[[Link]](https://link.springer.com/article/10.1007/s13042-022-01615-6)
 
 ## 2021
 - Tennakoon, R., Suter, D., Zhang, E., Chin, T.J. and Bab-Hadiashar, A., 2021. "Consensus Maximisation Using Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
@@ -19,6 +35,9 @@ author_profile: true
 
 - Ali, S., Mayo, S., Gostar, A.K., Tennakoon, R., Bab-Hadiashar, A., MCann, T., Tuhumury, H. and Favaro, J. "Automatic segmentation for synchrotron-based imaging of porous bread dough using deep learning approach". Journal of Synchrotron Radiation, 2021.  
 [[Link]](https://scripts.iucr.org/cgi-bin/paper?tv5012)
+
+- Nisa, H., Ciesielski, V., Thom, J. and Tennakoon, R., December. "Annotation of struck-out text in handwritten documents". In Proceedings of the 25th Australasian Document Computing Symposium .
+[[Link]](https://dl.acm.org/doi/pdf/10.1145/3503516.3503532)
 
 
 ## 2020
