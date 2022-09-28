@@ -12,11 +12,11 @@ redirect_from:
 
 Masters courses
 ======
-* Computational Machine Learning (2020,)
-* Deep Learning (2020,)
+* Computational Machine Learning (2020-2021)
+* Deep Learning (2020-2022)
 
 Bachelor courses
 ======
-* Machine Learning (2020,)
-* Advanced Programming Techniques (2019,)
+* Machine Learning (2020-2021)
+* Advanced Programming Techniques (2019-2022)
 
