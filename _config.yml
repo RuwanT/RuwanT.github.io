@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dr. Ruwan Tennakoon"
   avatar           : "profile.png"
-  bio              : "Lecturer in Computer Science at RMIT University"
+  bio              : "Senior Lecturer in Artificial Intelligence at RMIT University"
   location         : "Melbourne Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.au/citations?user=jJLCih0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.au/citations?user=tJ2el8oAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/ruwan-tennakoon-923a3437"
   orcid            : "https://orcid.org/0000-0001-8909-5728"
   pinterest        :
   soundcloud       :
