@@ -22,6 +22,11 @@ author_profile: true
 - Muthu, S., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Unsupervised video object segmentation: an affinity and edge learning approach. International Journal of Machine Learning and Cybernetics, 2022.
 [[Link]](https://link.springer.com/article/10.1007/s13042-022-01615-6)
 
+- Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Robust Object Classification Approach using Spherical Harmonics. IEEE Access, 2022. 
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9713880)
+
+- 
+
 ## 2021
 - Tennakoon, R., Suter, D., Zhang, E., Chin, T.J. and Bab-Hadiashar, A., 2021. "Consensus Maximisation Using Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
 [[Link]](https://openaccess.thecvf.com/content/CVPR2021/html/Tennakoon_Consensus_Maximisation_Using_Influences_of_Monotone_Boolean_Functions_CVPR_2021_paper.html)[[Code]](https://github.com/RuwanT/MBF-MaxCon)
