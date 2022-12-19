@@ -25,7 +25,8 @@ author_profile: true
 - Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Robust Object Classification Approach using Spherical Harmonics. IEEE Access, 2022. 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9713880)
 
-- 
+- Mukhaimar, A., Tennakoon, R., Hoseinnezhad, R., Lai, C.Y. and Bab-Hadiashar, A.,. Robust Pooling Through The Data Mode. Intelligent Systems with Applications, 2022.
+[[Link]](https://www.sciencedirect.com/science/article/pii/S2667305322000990)
 
 ## 2021
 - Tennakoon, R., Suter, D., Zhang, E., Chin, T.J. and Bab-Hadiashar, A., 2021. "Consensus Maximisation Using Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
