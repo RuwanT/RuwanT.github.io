@@ -56,6 +56,10 @@ An up to date list of my publications is on my [google scholar page](https://sch
 - Gostar, A.K., Rathnayake, T., Tennakoon, R., Bab-Hadiashar, A., Battistelli, G., Chisci, L. and Hoseinnezhad, R. "Centralized Cooperative Sensor Fusion for Dynamic Sensor Network With Limited Field-of-View via Labeled Multi-Bernoulli Filter". IEEE Transactions on Signal Processing, 2020.  
 [[Link]](https://ieeexplore.ieee.org/abstract/document/9311857)
 
+- Rathnayake, T., Khodadadian Gostar, A., Hoseinnezhad, R., Tennakoon, R. and Bab-Hadiashar, A. 
+On-line visual tracking with occlusion handling. Sensors.
+[[PDF]](https://www.mdpi.com/1424-8220/20/3/929)
+
 ## 2019
 - Tennakoon, R., Bortsova, G., Ørting, S., Gostar, A.K., Wille, M.M., Saghir, Z., Hoseinnezhad, R., de Bruijne, M. and Bab-Hadiashar, A. "Classification of Volumetric Images Using Multi-Instance Learning and Extreme Value Theorem". *IEEE Transactions on Medical Imaging*, 2019.  
 [[PDF]](http://ruwant.github.io/files/TMI2936244.pdf) [[Code]](https://github.com/RuwanT/EVT-MIL)
