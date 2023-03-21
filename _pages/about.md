@@ -14,7 +14,7 @@ I am always looking for highly-motivated students with strong mathematical backg
 
 ## Research interests
 
-I am interested in building and providing theoretical understanding of robust computer vision systems that can be utilized in autonomous navigation, robotics, advanced manufacturing, and medicine.
+I am interested in building and providing theoretical understanding of *robust computer vision* systems that can be utilized in autonomous navigation, robotics, advanced manufacturing, and medicine. More specifically, 
 
 - **Computer vision**: Geometric vision (e.g., 3D reconstruction, Depth estimation, Motion segmentation), Robust vision (RANSAC and its varients).
 - **Machine learning**: Handling data-set shift (e.g, Domain adaptation, Generalisation, Syn2Real), Learning with corrupted or limited data (e.g. Weakly-Supervised Learning).
