@@ -31,6 +31,9 @@ An up to date list of my publications is on my [google scholar page](https://sch
 - Mukhaimar, A., Tennakoon, R., Hoseinnezhad, R., Lai, C.Y. and Bab-Hadiashar, A.,. Robust Pooling Through The Data Mode. Intelligent Systems with Applications, 2022.
 [[Link]](https://www.sciencedirect.com/science/article/pii/S2667305322000990)
 
+- Blair, A., Gostar, A.K., Tennakoon, R., Bab-Hadiashar, A., Li, X., Palmer, J. and Hoseinnezhad, R.,. Distributed Multi-Sensor Control for Multi-Target Tracking. In 11th International Conference on Control, Automation and Information Sciences (ICCAIS), 2022.
+[[Link]](10.1109/ICCAIS56082.2022.9990364)
+
 ## 2021
 - Tennakoon, R., Suter, D., Zhang, E., Chin, T.J. and Bab-Hadiashar, A., 2021. "Consensus Maximisation Using Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
 [[Link]](https://openaccess.thecvf.com/content/CVPR2021/html/Tennakoon_Consensus_Maximisation_Using_Influences_of_Monotone_Boolean_Functions_CVPR_2021_paper.html)[[Code]](https://github.com/RuwanT/MBF-MaxCon)
