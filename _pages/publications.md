@@ -7,6 +7,11 @@ author_profile: true
 
 An up to date list of my publications is on my [google scholar page](https://scholar.google.com.au/citations?user=tJ2el8oAAAAJ&hl=en). This page contains the links to code and pre-print pdfs for some of the publications. 
 
+## 2023
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A., "An Information-Theoretic Method to Automatic Shortcut Avoidance and Domain Generalization for Dense Prediction Tasks". *IEEE transactions on pattern analysis and machine intelligence*, 2023.
+[[PDF]](https://github.com/RuwanT/files/ITSA_TPAMI.pdf)[[Code]](https://github.com/waychin-weiqin/ITSA)
+
+
 
 ## 2022
 - Chuah, W., Tennakoon, R., Hoseinnezhad, R., Bab-Hadiashar, A. and Suter, D., "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
