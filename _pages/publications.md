@@ -9,7 +9,7 @@ An up to date list of my publications is on my [google scholar page](https://sch
 
 ## 2023
 - Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A., "An Information-Theoretic Method to Automatic Shortcut Avoidance and Domain Generalization for Dense Prediction Tasks". *IEEE transactions on pattern analysis and machine intelligence*, 2023.
-[[PDF]](https://github.com/RuwanT/files/ITSA_TPAMI.pdf)[[Code]](https://github.com/waychin-weiqin/ITSA)
+[[PDF]](https://ruwant.github.io/files/ITSA_TPAMI.pdf)[[Code]](https://github.com/waychin-weiqin/ITSA)
 
 
 
