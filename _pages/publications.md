@@ -8,8 +8,13 @@ author_profile: true
 An up to date list of my publications is on my [google scholar page](https://scholar.google.com.au/citations?user=tJ2el8oAAAAJ&hl=en). This page contains the links to code and pre-print pdfs for some of the publications. 
 
 ## 2023
-- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A., "An Information-Theoretic Method to Automatic Shortcut Avoidance and Domain Generalization for Dense Prediction Tasks". *IEEE transactions on pattern analysis and machine intelligence*, 2023.
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A., "An Information-Theoretic Method to Automatic Shortcut Avoidance and Domain Generalization for Dense Prediction Tasks". *IEEE transactions on pattern analysis and machine intelligence*, 2023.   
 [[PDF]](https://ruwant.github.io/files/ITSA_TPAMI.pdf)[[Code]](https://github.com/waychin-weiqin/ITSA)
+
+- Mahapatra, D., Korevaar, S., Bozorgtabar, B. and Tennakoon, R. "Unsupervised domain adaptation using feature disentanglement and GCNs for medical image classification". In Computer Vision–ECCV 2022 Workshops, Proceedings, Part VII (pp. 735-748) 2022.    
+[[Link]](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_50).   
+:trophy: Best paper award (Silver), Workshop on AI-enabled Medical Image Analysis (AIMIA)
+
 
 
 
