@@ -19,46 +19,46 @@ An up to date list of my publications is on my [google scholar page](https://sch
 
 
 ## 2022
-- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Bab-Hadiashar, A. and Suter, D., "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Bab-Hadiashar, A. and Suter, D., "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.    
 [[Link]](https://openaccess.thecvf.com/content/CVPR2022/html/Chuah_ITSA_An_Information-Theoretic_Approach_to_Automatic_Shortcut_Avoidance_and_Domain_CVPR_2022_paper.html)[[Code]](https://github.com/waychin-weiqin/ITSA)
 [[Video]](https://youtu.be/17SLCfmZLbs)
 
-- Zhang, E., Suter, D., Tennakoon, R., Chin, T.J., Bab-Hadiashar, A., Truong, G. and Gilani, S.Z., "Maximum Consensus by Weighted Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+- Zhang, E., Suter, D., Tennakoon, R., Chin, T.J., Bab-Hadiashar, A., Truong, G. and Gilani, S.Z., "Maximum Consensus by Weighted Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.    
 [[Link]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Maximum_Consensus_by_Weighted_Influences_of_Monotone_Boolean_Functions_CVPR_2022_paper.html)
 
-- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A.,. Semantic Guided Long Range Stereo Depth Estimation for Safer Autonomous Vehicle Applications. IEEE Transactions on Intelligent Transportation Systems, 2022.
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A.,. Semantic Guided Long Range Stereo Depth Estimation for Safer Autonomous Vehicle Applications. IEEE Transactions on Intelligent Transportation Systems, 2022.    
 [[PDF]](http://ruwant.github.io/files/Wei_TITS_2022_.pdf)
 
-- Acharya, D., Tennakoon, R., Muthu, S., Khoshelham, K., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Single-image localisation using 3D models: Combining hierarchical edge maps and semantic segmentation for domain adaptation. Automation in Construction, 2022.
+- Acharya, D., Tennakoon, R., Muthu, S., Khoshelham, K., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Single-image localisation using 3D models: Combining hierarchical edge maps and semantic segmentation for domain adaptation. Automation in Construction, 2022.    
 [[Link]](https://www.sciencedirect.com/science/article/pii/S0926580522000255)
 
-- Muthu, S., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Unsupervised video object segmentation: an affinity and edge learning approach. International Journal of Machine Learning and Cybernetics, 2022.
+- Muthu, S., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Unsupervised video object segmentation: an affinity and edge learning approach. International Journal of Machine Learning and Cybernetics, 2022.    
 [[Link]](https://link.springer.com/article/10.1007/s13042-022-01615-6)
 
-- Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Robust Object Classification Approach using Spherical Harmonics. IEEE Access, 2022. 
+- Mukhaimar, A., Tennakoon, R., Lai, C.Y., Hoseinnezhad, R. and Bab-Hadiashar, A.,. Robust Object Classification Approach using Spherical Harmonics. IEEE Access, 2022.    
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9713880)
 
-- Mukhaimar, A., Tennakoon, R., Hoseinnezhad, R., Lai, C.Y. and Bab-Hadiashar, A.,. Robust Pooling Through The Data Mode. Intelligent Systems with Applications, 2022.
+- Mukhaimar, A., Tennakoon, R., Hoseinnezhad, R., Lai, C.Y. and Bab-Hadiashar, A.,. Robust Pooling Through The Data Mode. Intelligent Systems with Applications, 2022.   
 [[Link]](https://www.sciencedirect.com/science/article/pii/S2667305322000990)
 
-- Blair, A., Gostar, A.K., Tennakoon, R., Bab-Hadiashar, A., Li, X., Palmer, J. and Hoseinnezhad, R.,. Distributed Multi-Sensor Control for Multi-Target Tracking. In 11th International Conference on Control, Automation and Information Sciences (ICCAIS), 2022.
+- Blair, A., Gostar, A.K., Tennakoon, R., Bab-Hadiashar, A., Li, X., Palmer, J. and Hoseinnezhad, R.,. Distributed Multi-Sensor Control for Multi-Target Tracking. In 11th International Conference on Control, Automation and Information Sciences (ICCAIS), 2022.   
 [[Link]]([10.1109/ICCAIS56082.2022.9990364](https://ieeexplore.ieee.org/document/9990364))
 
 ## 2021
-- Tennakoon, R., Suter, D., Zhang, E., Chin, T.J. and Bab-Hadiashar, A., 2021. "Consensus Maximisation Using Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
+- Tennakoon, R., Suter, D., Zhang, E., Chin, T.J. and Bab-Hadiashar, A., 2021. "Consensus Maximisation Using Influences of Monotone Boolean Functions". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.    
 [[Link]](https://openaccess.thecvf.com/content/CVPR2021/html/Tennakoon_Consensus_Maximisation_Using_Influences_of_Monotone_Boolean_Functions_CVPR_2021_paper.html)[[Code]](https://github.com/RuwanT/MBF-MaxCon)
 [[Video]](https://youtu.be/oxPeVtg4X-w)
 
-- Korevaar, S., Tennakoon, R., Page, M., Brotchie, P., Thangarajah, J., Florescu, C., Sutherland, T., Kam, N.M. and Bab-Hadiashar, A. "Incidental detection of prostate cancer with computed tomography scans". Scientific Reports, 2021.
+- Korevaar, S., Tennakoon, R., Page, M., Brotchie, P., Thangarajah, J., Florescu, C., Sutherland, T., Kam, N.M. and Bab-Hadiashar, A. "Incidental detection of prostate cancer with computed tomography scans". Scientific Reports, 2021.   
 [[Link]](https://www.nature.com/articles/s41598-021-86972-y) [[Video]](https://youtu.be/7FEV-OAAWdE)
 
-- Chuah, W., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A. "Deep Learning-Based Incorporation of Planar Constraints for Robust Stereo Depth Estimation in Autonomous Vehicle Applications". IEEE Transactions on Intelligent Transportation Systems, 2021.  
+- Chuah, W., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A. "Deep Learning-Based Incorporation of Planar Constraints for Robust Stereo Depth Estimation in Autonomous Vehicle Applications". IEEE Transactions on Intelligent Transportation Systems, 2021.     
 [[Link]](https://ieeexplore.ieee.org/document/9364910)
 
-- Ali, S., Mayo, S., Gostar, A.K., Tennakoon, R., Bab-Hadiashar, A., MCann, T., Tuhumury, H. and Favaro, J. "Automatic segmentation for synchrotron-based imaging of porous bread dough using deep learning approach". Journal of Synchrotron Radiation, 2021.  
+- Ali, S., Mayo, S., Gostar, A.K., Tennakoon, R., Bab-Hadiashar, A., MCann, T., Tuhumury, H. and Favaro, J. "Automatic segmentation for synchrotron-based imaging of porous bread dough using deep learning approach". Journal of Synchrotron Radiation, 2021.    
 [[Link]](https://scripts.iucr.org/cgi-bin/paper?tv5012)
 
-- Nisa, H., Ciesielski, V., Thom, J. and Tennakoon, R., December. "Annotation of struck-out text in handwritten documents". In Proceedings of the 25th Australasian Document Computing Symposium .  
+- Nisa, H., Ciesielski, V., Thom, J. and Tennakoon, R., December. "Annotation of struck-out text in handwritten documents". In Proceedings of the 25th Australasian Document Computing Symposium .     
 [[Link]](https://dl.acm.org/doi/pdf/10.1145/3503516.3503532)
 
 
