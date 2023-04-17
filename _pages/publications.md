@@ -13,7 +13,7 @@ An up to date list of my publications is on my [google scholar page](https://sch
 
 - Mahapatra, D., Korevaar, S., Bozorgtabar, B. and Tennakoon, R. "Unsupervised domain adaptation using feature disentanglement and GCNs for medical image classification". In Computer Vision–ECCV 2022 Workshops, Proceedings, Part VII (pp. 735-748) 2022.    
 [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_50).   
-:trophy: Best paper award (Silver), Workshop on AI-enabled Medical Image Analysis (AIMIA)
+🏅 Best paper award (Silver), Workshop on AI-enabled Medical Image Analysis (AIMIA)
 
 
 
