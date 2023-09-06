@@ -15,7 +15,13 @@ An up to date list of my publications is on my [google scholar page](https://sch
 [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_50).   
 🏅 Best paper award (Silver), Workshop on AI-enabled Medical Image Analysis (AIMIA)
 
+- Muthu, S., Tennakoon, R., Rathnayake, T., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A., "Generalized framework for image and video object segmentation using affinity learning and message passing GNNS".
+*Computer Vision and Image Understanding*, 2023.
+[[Link]](https://www.sciencedirect.com/science/article/pii/S1077314223001923). 
 
+- Korevaar, S., Tennakoon, R. and Bab-Hadiashar, A., "Failure to Achieve Domain Invariance With Domain Generalization Algorithms: An Analysis in Medical Imaging".
+*IEEE Access*, 2023.
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105917). 
 
 
 ## 2022
