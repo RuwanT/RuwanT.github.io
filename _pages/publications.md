@@ -16,13 +16,18 @@ An up to date list of my publications is on my [google scholar page](https://sch
 🏅 Best paper award (Silver), Workshop on AI-enabled Medical Image Analysis (AIMIA)
 
 - Muthu, S., Tennakoon, R., Rathnayake, T., Hoseinnezhad, R., Suter, D. and Bab-Hadiashar, A., "Generalized framework for image and video object segmentation using affinity learning and message passing GNNS".
-*Computer Vision and Image Understanding*, 2023.
+*Computer Vision and Image Understanding*, 2023.  
 [[Link]](https://www.sciencedirect.com/science/article/pii/S1077314223001923). 
 
 - Korevaar, S., Tennakoon, R. and Bab-Hadiashar, A., "Failure to Achieve Domain Invariance With Domain Generalization Algorithms: An Analysis in Medical Imaging".
-*IEEE Access*, 2023.
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105917). 
+*IEEE Access*, 2023.  
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105917).
 
+- Muthu, S., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A., "A survey of CNN-based techniques for scene flow estimation"
+  *IEEE Access*, 2023.  
+
+- Aidan Blair , Amirali Khodadadian Gostar , Ruwan Bandara Tennakoon , Ali Bab-Hadiashar , Reza Hoseinnezhad. "Temporal Multiple Rotation Averaging on a Distributed Dynamic Network".
+  *IEEE Transactions on Signal and Information Processing over Networks*, 2023.
 
 ## 2022
 - Chuah, W., Tennakoon, R., Hoseinnezhad, R., Bab-Hadiashar, A. and Suter, D., "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.    
