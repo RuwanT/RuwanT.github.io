@@ -24,10 +24,18 @@ An up to date list of my publications is on my [google scholar page](https://sch
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105917).
 
 - Muthu, S., Tennakoon, R., Hoseinnezhad, R. and Bab-Hadiashar, A., "A survey of CNN-based techniques for scene flow estimation"
-  *IEEE Access*, 2023.  
+  *IEEE Access*, 2023.
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10247043)
 
 - Aidan Blair , Amirali Khodadadian Gostar , Ruwan Bandara Tennakoon , Ali Bab-Hadiashar , Reza Hoseinnezhad. "Temporal Multiple Rotation Averaging on a Distributed Dynamic Network".
   *IEEE Transactions on Signal and Information Processing over Networks*, 2023.
+[[Link]](https://ieeexplore.ieee.org/abstract/document/10247092)
+
+- Papangkorn Jessadatavornwong, Ruwan Tennakoon, Alireza Bab-Hadiashar, Raj Das, Adrian P. Mouritz, Mark A. Easton, "Defect detectability assessment of notches in a self-piercing rivet using X-ray computed tomography", *NDT & E International*, 2023.
+[[Link]](https://www.sciencedirect.com/science/article/pii/S0963869523001858)
+
+- Ayman Mukhaimar, Ruwan Tennakoon, Nik Rajic, Fabio Zambetta, Pier Marzocca, Reza Hoseinnezhad, Chris Brooks, Stephen Van Der Velden, and Kheang Khauv. "Stress visualization in geometrically complex structures using Thermoelastic Stress Analysis and Augmented Reality". *ACM Symposium on Virtual Reality Software and Technology (VRST '23)*. 2023.
+[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3611659.3617217)
 
 ## 2022
 - Chuah, W., Tennakoon, R., Hoseinnezhad, R., Bab-Hadiashar, A. and Suter, D., "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.    
